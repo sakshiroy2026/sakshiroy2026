@@ -144,14 +144,6 @@ Relevant coursework: Data Structures & Algorithms, DBMS, Operating Systems, Obje
 
 ---
 
-## Most Used Languages
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshiroy2026&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages"/>
-</p>
-
----
-
 ## Achievements & Certifications
 
 - **NPTEL Gold Medal** — Developing Soft Skills & Personality
