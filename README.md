@@ -1,11 +1,10 @@
 <!--
   ============================================================
-  BEFORE PUBLISHING - replace these placeholders:
-    1. YOUR_LINKEDIN  -> your LinkedIn slug   (linkedin.com/in/YOUR_LINKEDIN)
-    2. RESUME_LINK    -> public resume link   (Google Drive / hosted PDF)
-    3. PORTFOLIO_LINK -> portfolio URL        (or delete the Portfolio badge)
-    4. .../REPO       -> the exact repo URL for each featured project
-    5. Confirm the name, email and username below match your account.
+  ONE THING LEFT TO REPLACE:
+    REPO  -> the exact repo URL for each featured project
+  Also: make sure the Google Drive resume is shared as
+  "Anyone with the link, Viewer", or recruiters will hit
+  a request-access wall.
   ============================================================
 -->
 
@@ -18,10 +17,10 @@ Final-year B.Tech, Computer Science &amp; Engineering (AI) @ IGDTUW &nbsp;·&nbs
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/sakshi-roy-57b644261"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://drive.google.com/file/d/1KIeFyGH9TBSFIMkj3tXeeIOckLkn8yh8/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
   <a href="mailto:sakshi31roy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="RESUME_LINK"><img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logoColor=white" alt="Resume"/></a>
-  <a href="PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:sakshi109btcsai22@igdtuw.ac.in"><img src="https://img.shields.io/badge/College_Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="College Email"/></a>
 </p>
 
 <p align="center">
@@ -145,19 +144,10 @@ Relevant coursework: Data Structures & Algorithms, DBMS, Operating Systems, Obje
 
 ---
 
-## GitHub Analytics
+## Most Used Languages
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sakshiroy2026&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight" alt="GitHub stats"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshiroy2026&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sakshiroy2026&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshiroy2026&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
 </p>
 
 ---
@@ -179,7 +169,8 @@ Relevant coursework: Data Structures & Algorithms, DBMS, Operating Systems, Obje
 ## Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/sakshi-roy-57b644261"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://drive.google.com/file/d/1KIeFyGH9TBSFIMkj3tXeeIOckLkn8yh8/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
   <a href="mailto:sakshi31roy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="RESUME_LINK"><img src="https://img.shields.io/badge/Resume-2E7D32?style=for-the-badge&logoColor=white" alt="Resume"/></a>
+  <a href="mailto:sakshi109btcsai22@igdtuw.ac.in"><img src="https://img.shields.io/badge/College_Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="College Email"/></a>
 </p>
